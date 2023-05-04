@@ -7,8 +7,7 @@ terraform plan
 terraform apply
 
 
-Rien de très poussé, j'ai implémenté les 3 blocs, j'ai utilisé une fonction hello world toute simple dans un fichier js, je l'ai ajouté en copie en dehors du zip
-
+Rien de très poussé, j'ai implémenté les 3 blocs, j'ai utilisé une fonction hello world toute simple dans un fichier js, je l'ai ajouté en copie en dehors du zip, tout est dans le storage.tf
 
 honnêtement c'est un peu du bricolage j'ai beaucoup réutilisé de code, avec du recul j'aurais du split les resources dans des fichiers pour que ce soit plus organisé
 
